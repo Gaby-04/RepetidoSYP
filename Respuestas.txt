@@ -11,3 +11,16 @@ El sislCma cmpresa forma a su vez, un enlOmo comJicionante de los subsistemas
 y elementos que se integran en el. Por ejemplo: el pOIcnciai humane es un clemente
 euyo rendimienlo depcncle de la aplicaci6n que se Ie de y del medio arnbiente de.<mrrolIado
 a su alrededor.
+
+2- Mencione los componentes básicos de un sistema
+   Los elementos que componen un SISTEMA son entrada, salida, proceso, ambiente, retroalimentación. 
+   Las entradas son los elementos de que el sistema puede disponer para su propio provecho.
+  Las salidas son los objetivos resueltos del sistema; lo que éste se propone, ya conseguido.
+  El medio ambiente social, econ6mico, politico y cultural, cuyo ambito de
+  acci6n llega a contener esferas regionales, nacionales y aun intemacionales,
+  mediante una 0 varias entradas. Las entradas dan paso a varios insumos 0
+ recursos del medio.
+ Los insumos del sistema que serfan los componentes que ingresan a el y que
+ pueden comprender recursos existentes en el medio ambiente tales como:
+ recursos humanos, financieros, materiales, directrices, politicas, instrucciones
+ operativas, informaci6n, normas legales, etcetera.
