@@ -24,3 +24,27 @@ a su alrededor.
  pueden comprender recursos existentes en el medio ambiente tales como:
  recursos humanos, financieros, materiales, directrices, politicas, instrucciones
  operativas, informaci6n, normas legales, etcetera.
+
+
+3- que es un sistema operativo?
+El sistema operativo tiene que ver principalmente con la
+racionalidad tecnico-economica, y trata de crear certidumbre cerrando el micleo tecnico
+para muchas variables. Contrastando con esto, el nivel estrategico de la empresa
+encara el mas alta grado de incertidumbre en terrninos de los insumos provenientes
+del medio ambiente, sobre los cuales tiene muy poco 0 ningun control. Por 10 tanto,
+la administracion en estos niveles debe tener los puntos de vista del sistema abierto y
+concentrarse en estrategias innovativas y/o adaptativas.
+
+4- Realice un esquema de los procesos básicos de un sistema abierto
+
+     entrada 	---------------------------->   organizacion o proceso de transformacion   		-------------> luego estan las salidas 
+     aqui entras                               la transformacion de recursos y rama de utilidades                    (estan los productos. servicios satisfaccion humana, supervivencia, crecimiento de la organizacion etc.
+     todo lo que el humano                                                                                                                |
+     hace                                                                                                                                 |
+     -Esfuerzo humano                                                                                                                     |
+     -y la informacion                                                                                                                    |
+     -material                                                                                                                            |
+     -dinero etc.                                                                                                                         |
+         |________________________________________________________________________________________________________________________________|
+                                                                y retroalimentacion
+                                                               el entorno.
